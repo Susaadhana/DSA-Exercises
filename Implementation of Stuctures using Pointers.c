@@ -69,6 +69,5 @@ int main()
     printf("Roll No : %d\n", s[topper].rollno);
     printf("Total   : %d\n", s[topper].total);
     printf("Average : %.2f\n", s[topper].average);
-
     return 0;
 }
